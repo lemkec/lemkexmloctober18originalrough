@@ -1,0 +1,12 @@
+<!ELEMENT booth (item)>
+<!ELEMENT printed (#PCDATA)>
+<!ELEMENT decoration (#PCDATA)>
+<!ELEMENT dishware (#PCDATA)>
+<!ELEMENT usable (#PCDATA)>
+<!ELEMENT antique (#PCDATA)>
+<!ELEMENT title (#PCDATA)>
+<!ELEMENT author (#PCDATA)>
+<!ELEMENT year (#PCDATA)>
+<!ELEMENT price (#PCDATA)>
+<!ELEMENT description (#PCDATA)>
+<!ELEMENT format (#PCDATA)>

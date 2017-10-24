@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<booth>
+
+  <item>
+   <printed>
+     <format>Book 1</format> 
+     <title lang="en"> To be determined    </title>
+     <author> To be determined   </author>
+     <year> To be determined   </year>
+     <price> To be determined     </price>
+   <printed>
+  </item>
+
+  <item>
+   <decoration>
+     <format>Mask</format> 
+     <title lang="en"> Tribal Mask </title>
+     <author> Unknown   </author>
+     <year> Unknown   </year>
+     <price> Not yet set </price>
+     <description> Hand-carved tribal mask with shell inlay. Ideal for decoration, admiration of other cultures, and display around Halloween.
+     </description>
+   <decoration>
+  </item>
+
+  <item>
+   <decoration>
+     <format>Wood burned</format> 
+     <title lang="en"> Owl Board </title>
+     <author> Unknown   </author>
+     <year> Unknown   </year>
+     <price> Not yet set  </price>
+     <description> Images of owls burned into the wood, as a cedar box.</description>
+   <decoration>
+  </item>
+
+  <item>
+   <usable>
+     <format>Dishware</format> 
+     <title lang="en"> Orange Slag Hobnail Milkglass Creamer </title>
+     <author> Unknown  </author>
+     <year> Unknown </year>
+     <price> Not yet set </price>
+     <description> A different twist on a kitchen staple. Sure, you could buy a stainless steel creamer. But, why would you? What character does that give to your house? </description> 
+   <usable>
+  </item>
+
+ <item>
+   <antique>
+     <format>Collectible</format> 
+     <title lang="en"> Johnathan Livingstone Seagull Coin </title>
+     <author> Unknown  </author>
+     <year> Unknown </year>
+     <price> Not yet set </price>
+     <description>   This coin is based on the novella that Livingstone wrote. </description>
+   <antique>
+  </item>
+
+</booth>
